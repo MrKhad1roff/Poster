@@ -48,6 +48,11 @@
         bottom: 160px;
         right: 150px;
     }
+    .pizza{
+        width: 200px;
+        height: 200px;
+        right: 80px;
+    }
     .art{
         bottom: 160px;
         left: 220px;
@@ -202,6 +207,9 @@
     }
     .home{
         left: 400px;
+    }
+    .pizza{
+        top: 150px;
     }
 }
 /* tab */

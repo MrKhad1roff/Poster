@@ -1,0 +1,220 @@
+/* Decktop */
+@media (max-width: 1440px) {
+    .kar{
+        bottom: 180px;
+        right: 150px;
+    }
+    .art{
+        bottom: 180px;
+        left: 220px;
+    }
+    .com{
+        bottom: 230px;
+        left: 470px;
+    }
+    .res{
+        bottom: 230px;
+        right: 470px;
+    }
+    .mlbb{
+        width: 400px;
+        height: 150px;
+    }
+    .fit{
+        bottom: 400px;
+        left: 700px;
+    }
+    .home{
+        left: 600px;
+    }
+    .billie{
+        width: 500px;
+        height: 500px;
+    }
+    .jony{
+        width: 500px;
+        height: 500px;
+    }
+    .nota3{
+        left: 700px;
+    }
+    .nota2{
+        right: 450px;
+    }
+
+}
+@media (max-width: 1320px) {
+    .kar{
+        bottom: 160px;
+        right: 150px;
+    }
+    .art{
+        bottom: 160px;
+        left: 220px;
+    }
+    .com{
+        bottom: 230px;
+        left: 450px;
+    }
+    .res{
+        bottom: 230px;
+        right: 400px;
+    }
+    .fit{
+        bottom: 380px;
+        left: 630px;
+    }
+    .home{
+        left: 550px;
+    }
+}
+@media (max-width: 1290px) {
+    .fit{
+        bottom: 370px;
+        left: 615px;
+    }
+    .home{
+        left: 530px;
+    }
+}
+@media (max-width: 1170px) {
+    .header__title{
+        font-size: 100px;
+    }
+    .kar{
+        bottom: 130px;
+        right: 130px;
+    }
+    .art{
+        bottom: 130px;
+        left: 200px;
+    }
+    .com{
+        bottom: 190px;
+        left: 400px;
+    }
+    .res{
+        bottom: 190px;
+        right: 310px;
+    }
+    .fit{
+        bottom: 340px;
+        left: 560px;
+    }
+    .home{
+        left: 470px;
+    }
+
+    .nota{
+        display: none;
+    }
+    .nota2{
+        display: none;
+    }
+    .man{
+        width: 400px;
+        height: 400px;
+    }
+    .nota3{
+        display: none;
+    }
+    .billie{
+        width: 400px;
+        height: 400px;
+    }
+    .jony{
+        width: 400px;
+        height: 400px;
+    }
+
+    .iccup{
+        width: 600px;
+        height: 300px;
+    }
+    .dota{
+        width: 500px;
+        height: 300px;
+    }
+    .mlbb{
+        animation: off;
+    }
+    .woman{
+        width: 250px;
+        height: 250px;
+    }
+}
+@media (max-width: 1140px) {
+    .kar{
+        bottom: 120px;
+        right: 130px;
+    }
+    .art{
+        bottom: 120px;
+        left: 200px;
+    }
+    .com{
+        bottom: 200px;
+        left: 400px;
+
+    }
+    .res{
+        bottom: 200px;
+        right: 300px;
+    }
+    .fit{
+        bottom: 330px;
+        left: 540px;
+    }
+    .btn{
+        font-size: 18px;
+    }
+    .home{
+        left: 470px;
+    }
+}
+@media (max-width: 1024px) {
+    .header__title{
+        font-size: 90px;
+    }
+    .btn{
+        font-size: 16px;
+    }
+    .kar{
+        bottom: 110px;
+        right: 110px;
+    }
+    .art{
+        bottom: 110px;
+        left: 150px;
+    }
+    .com{
+        bottom: 160px;
+        left: 300px;
+
+    }
+    .res{
+        bottom: 160px;
+        right: 270px;
+    }
+    .fit{
+        bottom: 295px;
+        left: 475px;
+    }
+    .home{
+        left: 400px;
+    }
+}
+/* tab */
+@media (max-width: 992px) {}
+@media (max-width: 850px) {}
+/* mobile */
+@media (max-width: 768px) {}
+@media (max-width: 734px) {}
+@media (max-width: 684px) {}
+@media (max-width: 667px) {}
+/* mobile < 576  */
+@media (max-width: 576px) {}
+@media (max-width: 480px) {}
+@media (max-width: 412px) {}
+@media (max-width: 375px) {}
+@media (max-width: 320px) {}
